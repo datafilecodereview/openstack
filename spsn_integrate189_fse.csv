@@ -1,0 +1,190 @@
+Review Id,Tag,IsDuplicated
+2915,Unclear Intention,0
+2952,Branch Placement,0
+2968,Side Effect,2
+2982,Flawed Changes,0
+5333,Flawed Changes,2
+5727,Side Effect,2
+5749,Shallow Fix,0
+6216,Flawed Changes,0
+6354,Self-change,0
+6375,Flawed Changes,2
+7054,Shallow Fix,0
+8254,Flawed Changes,0
+8721,Squashing Commits,2
+10203,Self-change,0
+10414,Test Failure,2
+11009,Flawed Changes,2
+11204,Release Schedule,0
+11271,Shallow Fix,2
+12491,Persuasion,2
+12716,Release Schedule,2
+13837,Side Effect,0
+13913,Alternative Solution,0
+14537,Shallow Fix,2
+14852,Flawed Changes,0
+15174,Flawed Changes,0
+15828,Unclear Intention,0
+16136,Flawed Changes,2
+17015,Release Schedule,2
+17030,Release Schedule,2
+17735,Persuasion,0
+17988,Release Schedule,0
+18798,Unclear Intention,0
+19202,Unclear Intention,0
+19477,Alternative Solution,0
+19721,Alternative Solution,0
+20432,Persuasion,2
+20467,Release Schedule,2
+20485,Release Schedule,2
+21561,Flawed Changes,2
+22637,Release Schedule,0
+23102,Flawed Changes,0
+23667,Release Schedule,0
+24099,Persuasion,0
+24153,Flawed Changes,0
+24363,Test Coverage,0
+24882,Persuasion,2
+26362,Release Schedule,2
+26583,Persuasion,2
+26684,Flawed Changes,2
+27177,Release Schedule,2
+27537,Backward Compatibility,0
+27744,Release Schedule,0
+27956,Release Schedule,0
+28075,Release Schedule,0
+28077,Release Schedule,0
+28076,Release Schedule,0
+28146,Release Schedule,0
+28168,Release Schedule,2
+28180,Release Schedule,0
+28207,Release Schedule,2
+28239,Release Schedule,2
+28275,Release Schedule,2
+28279,Release Schedule,2
+28280,Release Schedule,2
+28281,Release Schedule,2
+28504,Branch Placement,2
+28553,Patch Dependency,0
+29549,Test Coverage,2
+29645,Persuasion,2
+30130,Release Schedule,2
+30227,Flawed Changes,2
+30455,Backward Compatibility,0
+30885,Release Schedule,2
+30888,Release Schedule,2
+30892,Release Schedule,0
+31014,Persuasion,2
+31384,Release Schedule,0
+31389,Release Schedule,2
+31631,Release Schedule,0
+32660,Persuasion,2
+33135,Flawed Changes,2
+33211,Test Failure,0
+33737,Unclear Intention,0
+35744,Release Schedule,2
+36196,Unclear Intention,0
+36350,Shallow Fix,0
+36431,Release Schedule,2
+37620,Shallow Fix,2
+38023,Flawed Changes,0
+38228,Flawed Changes,0
+38473,Persuasion,0
+38657,Test Coverage,2
+38724,Release Schedule,0
+39317,Unclear Intention,0
+40097,Flawed Changes,2
+40539,Legal Issues,2
+42336,Self-change,2
+42798,Flawed Changes,2
+42809,Persuasion,0
+43424,Persuasion,0
+43769,Release Schedule,2
+44445,Release Schedule,2
+44455,Release Schedule,2
+44672,Release Schedule,0
+44709,Release Schedule,2
+45383,Release Schedule,2
+45390,Release Schedule,2
+47453,Legal Issues,0
+48073,Release Schedule,2
+48957,Shallow Fix,0
+49508,Release Schedule,2
+49544,Unclear Intention,2
+49868,Release Schedule,2
+51056,Persuasion,0
+51295,Side Effect,0
+51888,Self-change,2
+52364,Flawed Changes,0
+52670,Flawed Changes,0
+53871,Flawed Changes,2
+54430,Persuasion,2
+55425,Unclear Intention,2
+55434,Blueprint,0
+56420,Blueprint,0
+57118,Shallow Fix,2
+59046,Persuasion,2
+59685,Backward Compatibility,2
+60386,Patch Dependency,0
+60417,Self-change,2
+60477,Release Schedule,2
+60514,Patch Dependency,0
+60587,Release Schedule,0
+60680,Flawed Changes,2
+61737,Shallow Fix,0
+62280,Blueprint,2
+62671,Flawed Changes,2
+62751,Unclear Intention,0
+62934,Flawed Changes,0
+62980,Branch Placement,0
+63588,Persuasion,2
+63934,Shallow Fix,0
+64041,Flawed Changes,0
+66070,Flawed Changes,0
+66457,Release Schedule,2
+66532,Persuasion,0
+66546,Shallow Fix,0
+66825,Flawed Changes,0
+66982,Patch Dependency,0
+67304,Release Schedule,2
+67728,Release Schedule,2
+67912,Release Schedule,0
+68591,Patch Dependency,0
+68845,Self-change,2
+70126,Patch Dependency,0
+71401,Persuasion,2
+73417,Test Failure,2
+74225,Alternative Solution,0
+74922,Blueprint,2
+75436,Flawed Changes,0
+76299,Flawed Changes,2
+76539,Release Schedule,0
+76892,Flawed Changes,0
+77301,Flawed Changes,2
+77787,Release Schedule,0
+78114,Release Schedule,1
+79419,Self-change,2
+79459,Self-change,2
+79473,Flawed Changes,0
+79537,Persuasion,2
+79604,Persuasion,2
+79612,Shallow Fix,0
+80336,Release Schedule,2
+80450,Release Schedule,0
+80520,Release Schedule,0
+80631,Flawed Changes,0
+81044,Flawed Changes,0
+81306,Release Schedule,0
+81960,Flawed Changes,0
+82416,Release Schedule,2
+83097,Release Schedule,0
+84156,Flawed Changes,0
+84418,Release Schedule,2
+84584,Release Schedule,2
+84585,Release Schedule,2
+84586,Release Schedule,2
+84897,Patch Dependency,1
+85596,Release Schedule,0
+86527,Flawed Changes,0
+89188,Persuasion,2
+90738,Self-change,2
